@@ -1,5 +1,5 @@
+"api_token_env": "CROWDIN_PERSONAL_TOKEN"
 "project_id" : "100"
-"api_token" : "your-token"
 "base_path" : "/language"
 "base_url" : "https://joomla.crowdin.com"
 
